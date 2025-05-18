@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "G": { "item": "minecraft:gunpowder" },
+    "C": { "item":  "minecraft:coal" }
+  },
+  "pattern": [
+    "GGG",
+    "GCG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_stal"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "G": { "item": "minecraft:gunpowder" },
+    "Q": { "item":  "minecraft:quartz" }
+  },
+  "pattern": [
+    "GGG",
+    "GQG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_strad"
+  }
+}

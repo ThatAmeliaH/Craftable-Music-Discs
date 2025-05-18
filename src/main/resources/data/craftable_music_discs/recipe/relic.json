@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "M": { "item": "minecraft:packed_mud" },
+    "D": { "item":  "minecraft:diamond" }
+  },
+  "pattern": [
+    "MMM",
+    "MDM",
+    "MMM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_relic"
+  }
+}

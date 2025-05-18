@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "G": { "item": "minecraft:gunpowder" },
+    "E": { "item":  "minecraft:emerald" }
+  },
+  "pattern": [
+    "GGG",
+    "GEG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_cat"
+  }
+}

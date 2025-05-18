@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "S": { "item": "minecraft:stone" },
+    "H": { "item":  "minecraft:heavy_core" }
+  },
+  "pattern": [
+    "SSS",
+    "SHS",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_precipice"
+  }
+}

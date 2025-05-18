@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "G": { "item": "minecraft:gunpowder" },
+    "L": { "item":  "minecraft:lapis_lazuli" }
+  },
+  "pattern": [
+    "GGG",
+    "GLG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_wait"
+  }
+}
