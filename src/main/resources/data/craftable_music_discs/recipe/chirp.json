@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "G": { "item": "minecraft:gunpowder" },
+    "R": { "item":  "minecraft:redstone" }
+  },
+  "pattern": [
+    "GGG",
+    "GRG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_chirp"
+  }
+}
