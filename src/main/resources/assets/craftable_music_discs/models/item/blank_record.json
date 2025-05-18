@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "craftable_music_discs:item/blank_record"
+  }
+
+}
